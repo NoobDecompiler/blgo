@@ -11,9 +11,9 @@
 \x1b[1;90m╔════════════════════════════════════════╗
 \x1b[1;93m|       \x1b[1;91m[\x1b[1;92m*\x1b[1;91m]\x1b[1;92m  FB OLD UID CLONER \x1b[1;91m [\x1b[1;92m*\x1b[1;91m]      \x1b[1;93m|
 \x1b[1;93m|\x1b[1;90m════════════════════════════════════════\x1b[1;93m| 
-\x1b[1;93m|\x1b[1;91m [\x1b[1;92m\xe2\x9c\x93\x1b[1;91m]\x1b[1;92m AUTHOR   \x1b[1;91m> \x1b[1;92mMD Walid Mahmud         \x1b[1;93m|
-\x1b[1;93m|\x1b[1;91m [\x1b[1;92m\xe2\x9c\x93\x1b[1;91m]\x1b[1;92m YOUTUBE  \x1b[1;91m> \x1b[1;92mBG OF HR TC             \x1b[1;93m|
-\x1b[1;93m|\x1b[1;91m [\x1b[1;92m\xe2\x9c\x93\x1b[1;91m]\x1b[1;92m GITHUB   \x1b[1;91m> \x1b[1;92mMr-Beta-Version         \x1b[1;93m|
-\x1b[1;93m|\x1b[1;91m [\x1b[1;92m\xe2\x9c\x93\x1b[1;91m]\x1b[1;92m FACEBOOK \x1b[1;91m> \x1b[1;92mMD Walid Mahmud         \x1b[1;93m|
+\x1b[1;93m|\x1b[1;91m [\x1b[1;92m\xe2\x9c\x93\x1b[1;91m]\x1b[1;92m AUTHOR   \x1b[1;91m> \x1b[1;92m𝐌𝐃 𝐖𝐚𝐥𝐢𝐝 𝐌𝐚𝐡𝐦𝐮𝐝         \x1b[1;93m|
+\x1b[1;93m|\x1b[1;91m [\x1b[1;92m\xe2\x9c\x93\x1b[1;91m]\x1b[1;92m YOUTUBE  \x1b[1;91m> \x1b[1;92m𝐁𝐆 𝐎𝐅 𝐇𝐑 𝐓𝐂             \x1b[1;93m|
+\x1b[1;93m|\x1b[1;91m [\x1b[1;92m\xe2\x9c\x93\x1b[1;91m]\x1b[1;92m GITHUB   \x1b[1;91m> \x1b[1;92m𝐌𝐫-𝐁𝐞𝐭𝐚-𝐕𝐞𝐫𝐬𝐢𝐨𝐧         \x1b[1;93m|
+\x1b[1;93m|\x1b[1;91m [\x1b[1;92m\xe2\x9c\x93\x1b[1;91m]\x1b[1;92m FACEBOOK \x1b[1;91m> \x1b[1;92m𝐌𝐃 𝐖𝐚𝐥𝐢𝐝 𝐌𝐚𝐡𝐦𝐮𝐝         \x1b[1;93m|
 \x1b[1;90m╚════════════════════════════════════════╝
 """
